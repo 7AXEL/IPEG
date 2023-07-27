@@ -16,9 +16,8 @@
 <p align='center'>
     <img src="https://img.shields.io/badge/DISCLAIMER-purple?style=for-the-badge;"></img>
     
-#### SPYTROG
-<img src='https://github.com/7AXEL/SPYTROG/blob/main/img/icon.ico'></img>
-- IPEG provides you with a service that allow you to find any web server location
+#### IPEG
+- IPEG allow you to find any web server location
 - you can simply type the hostname or the ip adress of the server, exemple for facebook you can type facebook.com then press enter and you will get a map to show you the host location
 - to exit the tool press enter without writing nothing in the HOST/IP: input
 #### INSTALLATION
