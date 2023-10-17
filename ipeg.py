@@ -35,7 +35,7 @@ def error(msg):
 if sys.platform in ['win64', 'win32']:
     os.system('cls')
     _module_[3].init()
-elif sys.platform in ['Linux', 'Linux2']:
+elif sys.platform in ['linux', 'linux2']:
     os.system('clear')
 else:
     error('Unsupported OS')
